@@ -8,7 +8,6 @@ A modern, desktop Tic-Tac-Toe game built in Python using **CustomTkinter**. Feat
 
 ![Tic Tac Toe Game Preview](preview.png)
 
-> **Note:** To display your image above, save a screenshot of the app in your repository root as `preview.png`.
 
 ---
 
@@ -27,4 +26,5 @@ A modern, desktop Tic-Tac-Toe game built in Python using **CustomTkinter**. Feat
 ### Prerequisites
 
 - Python 3.8 or higher installed on your system.
-- Make sure to Download 
+- tic-tac-toe.ico
+- tic-tac-toe.png 
