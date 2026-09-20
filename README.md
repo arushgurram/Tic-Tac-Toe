@@ -5,8 +5,9 @@ A modern, desktop Tic-Tac-Toe game built in Python using **CustomTkinter**. Feat
 ---
 
 ## 🖼️ Preview
-
-![Tic Tac Toe Game Preview](preview.png)
+<p align="center">
+  <img src="tic-tac-toe-preview.png" alt="Tic Tac Toe Preview" width="400">
+</p>
 
 
 ---
